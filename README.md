@@ -8,5 +8,6 @@ None of this data is official.
 
 # Known Issues
 
-There are false-negatives in this dataset, due to bugs fixed in the following commits:
+There are false-negatives in this dataset, due to bugs fixed in the following commits/PRs:
 * [40e0ac](https://github.com/github-vet/bots/commit/40e0ac75dcaf519421eb237496fac98b309a9e71) 
+* [#41](https://github.com/github-vet/bots/pull/41)
